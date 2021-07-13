@@ -12,6 +12,9 @@ const List = ({ people }) => {
               <h4>{name}</h4>
               <p>{age} years</p>
             </div>
+            <div>
+              <button id="delete">X</button>
+            </div>
           </article>
         );
       })}
