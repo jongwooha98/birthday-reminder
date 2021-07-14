@@ -1,25 +1,23 @@
 import React from 'react';
 
-const List = ({ people }) => {
+function List({ people }) {
   return (
     <>
       {people.map((person) => {
-        const { id, name, age, image } = person;
+        const { login, name, dob, picture } = person;
         return (
-          <article key={id} className="person">
-            <img src={image} alt={name} />
+          <article key={login.uuid} className="person">
+            <img src={picture.medium} alt={name.first} />
             <div>
-              <h4>{name}</h4>
-              <p>{age} years</p>
-            </div>
-            <div>
-              <button id="delete">X</button>
+              <h4>
+                {name.first} {name.last}
+              </h4>
+              <p>{dob.age} years</p>
             </div>
           </article>
         );
       })}
     </>
   );
-};
-
+}
 export default List;
