@@ -12,7 +12,8 @@ function List({ people }) {
               <h4>
                 {name.first} {name.last}
               </h4>
-              <p>{dob.age} years</p>
+              <p>{dob.age} years old</p>
+              <p>{dob.date}</p>
             </div>
           </article>
         );
