@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/birthday-reminder/static/css/main.10d6a708.chunk.css",
-    "main.js": "/birthday-reminder/static/js/main.cfa5ca0b.chunk.js",
-    "main.js.map": "/birthday-reminder/static/js/main.cfa5ca0b.chunk.js.map",
+    "main.css": "/birthday-reminder/static/css/main.b8756d21.chunk.css",
+    "main.js": "/birthday-reminder/static/js/main.18ee81ee.chunk.js",
+    "main.js.map": "/birthday-reminder/static/js/main.18ee81ee.chunk.js.map",
     "runtime-main.js": "/birthday-reminder/static/js/runtime-main.ed31b697.js",
     "runtime-main.js.map": "/birthday-reminder/static/js/runtime-main.ed31b697.js.map",
-    "static/js/2.ab0cd556.chunk.js": "/birthday-reminder/static/js/2.ab0cd556.chunk.js",
-    "static/js/2.ab0cd556.chunk.js.map": "/birthday-reminder/static/js/2.ab0cd556.chunk.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/birthday-reminder/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.47f5966e.chunk.js": "/birthday-reminder/static/js/2.47f5966e.chunk.js",
+    "static/js/2.47f5966e.chunk.js.map": "/birthday-reminder/static/js/2.47f5966e.chunk.js.map",
     "index.html": "/birthday-reminder/index.html",
-    "precache-manifest.6b184b6c0ee97cebacb9089a4bc3b7ab.js": "/birthday-reminder/precache-manifest.6b184b6c0ee97cebacb9089a4bc3b7ab.js",
+    "precache-manifest.17f51ffb79b14ac5cc4108a03a195cbb.js": "/birthday-reminder/precache-manifest.17f51ffb79b14ac5cc4108a03a195cbb.js",
     "service-worker.js": "/birthday-reminder/service-worker.js",
-    "static/css/main.10d6a708.chunk.css.map": "/birthday-reminder/static/css/main.10d6a708.chunk.css.map",
-    "static/js/2.ab0cd556.chunk.js.LICENSE.txt": "/birthday-reminder/static/js/2.ab0cd556.chunk.js.LICENSE.txt"
+    "static/css/2.8dbe6964.chunk.css.map": "/birthday-reminder/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.b8756d21.chunk.css.map": "/birthday-reminder/static/css/main.b8756d21.chunk.css.map",
+    "static/js/2.47f5966e.chunk.js.LICENSE.txt": "/birthday-reminder/static/js/2.47f5966e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed31b697.js",
-    "static/js/2.ab0cd556.chunk.js",
-    "static/css/main.10d6a708.chunk.css",
-    "static/js/main.cfa5ca0b.chunk.js"
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.47f5966e.chunk.js",
+    "static/css/main.b8756d21.chunk.css",
+    "static/js/main.18ee81ee.chunk.js"
   ]
 }
